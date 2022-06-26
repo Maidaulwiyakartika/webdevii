@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+
+ <title>maida ulwiya kartika</title>
+    <style>
+       
+    </style>
+  </head>
+  <body>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: rgb(25, 163, 55);">
+        <div class="container">
+          <a class="navbar-brand" href="#" style="font-family: monospace; font-size: 32px;">Landing Page</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="#home">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#galery">Galery</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#about">About</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container text-center">
+    <img src="https://onjayjay.blogspot.com/2022/06/blog-post.html" width="300" class="rounded-circle">
+    <h1 class="display-4">MAIDA ULWIYA KARTIKA</h1>
+    <p class="container"><h2>Landing Page</h></p>
+  </div>
+</div>
+
+      <section class="jumbotron text-center" id="home">
+<div class="container">
+    <div class="row">
+        <div class="col text-center">
+            <h1>HOME</h1>
+        </div>
+        
+    </div>
+
+
+<div class="row">
+    <div class="col">
+        <p>Halo perkanalkan nama saya MAIDA ULWIYA KARTIKA biasa dipanggil maida, saya berasal dari Desa Ralleanak, Kec. Aralle, Kab. Mamasa, saya lahir pada tanggal 10 oktober 2002 saya kuliah di Universitas Sulawesi Barat dan mengambil jurusan Teknik Informatika, dan sekarang saya sudah semester 4. Saya pernah sekolah di SMKN 1 ARALLE yang bertempat di kab. mamasa di desa uhaidao(SULAWESI BARAT), MTS TRIBAKTI yang bertempat di kab.kunjang kediri(JAWA BARAT), dan SDN 003 RALLEANAK yang berada di desa Ralleanak(SULAWESI BARAT). 
+</div>
+</section>
+
+
+      <section id="galery">
+        <div class="container">
+          <div class="row text-center mb-3">
+            <div class="col">
+              <h2>GALERY</h2>
+            </div>
+          </div>
+         
+
+
+    <div class="row">
+      <div class="col">
+          <div class="card">
+    <img class="card-img-top" src="https://onjayjay.blogspot.com/2022/06/pantai.html" alt="Card image cap">
+    <div class="card-body">
+      <p class="card-text">Bersantai dipantai</p>
+    </div>
+  </div>
+
+        </div>
+ <div class="col">
+          <div class="card">
+    <img class="card-img-top" src="https://onjayjay.blogspot.com/2022/06/img-20220524-wa0001.html" alt="Card image cap">
+    <div class="card-body">
+      <p class="card-text">Belajar bersama</p>
+    </div>
+  </div>
+        </div>
+
+ </div>
+
+
+
+  <p></p>
+
+        <div class="col">
+          <div class="card">
+    <img class="card-img-top" src="https://onjayjay.blogspot.com/2022/06/k.html" alt="Card image cap">
+    <div class="card-body">
+      <p class="card-text">Kegiatan pengkaderan (KMFT)</p>
+    </div>
+  </div>
+        </div>
+
+ </div>
+
+
+ <p></p>
+ <section id="about">
+        <div class="container">
+          <div class="row text-center mb-3">
+            <div class="col">
+              <h2>ABOUT</h2>
+            </div>
+          </div>
+     
+      
+    </div>
+
+
+
+    <ul class="list-group">
+  <li class="list-group-item active">About</li>
+  <li class="list-group-item">Nama : MAIDA ULWIYA KARTIKA</li>
+  <li class="list-group-item">Tempat tanggal lahir : Ralleanak, 10 oktober 2002</li>
+  <li class="list-group-item">Alamat : Desa Ralleanak</li>
+  <li class="list-group-item">Status : Mahasiswi</li>
+</ul>
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
